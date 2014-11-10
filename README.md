@@ -1,11 +1,10 @@
 Sphinx per la tesi di laurea al DI
 ==================================
 
-![CC SA3.0](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![CC AIL4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 Questo repository contiene un esempio di utilizzo di [Sphinx](http://sphinx-doc.org/) come strumento di supporto per la stesura della tesi; il suo contenuto
-è distribuito sotto licenza [Creative Commons Attribution-ShareAlike 3.0 Unported
-License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US>).
+è distribuito sotto licenza [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 Per utilizzare questo materiale è necessario installare alcuni pacchetti
 Python, la cosa più comoda per farlo è installare
