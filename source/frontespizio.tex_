@@ -1,0 +1,76 @@
+\begin{titlepage}
+  \begin{center}
+    \includegraphics[height=5.0cm]{minerva.jpg}
+
+    \vspace*{.4cm}
+    {\Large
+      \emph{Corso di Laurea in\\[.3cm]
+        Informatica}
+    }
+    \vfill
+    \begin{Huge}
+      \textbf{La musica di Paperino}
+    \end{Huge}
+
+    \vfill
+    \begin{minipage}{.99\linewidth}
+      \begin{tabular}{l r}
+        \begin{minipage}{.4\linewidth}
+          \begin{flushleft}
+            {\large
+              RELATORE\\[.3cm]
+			  Prof.\ Archimede Pitagorico
+            }
+
+            \vspace*{1.5cm}
+            {\large
+            	CORRELATORE\\[.3cm]
+				Prof.\ Eta Beta
+            }
+          \end{flushleft}
+        \end{minipage}
+        &
+        \begin{minipage}{.6\linewidth}
+          \begin{flushright}
+            {\large
+              TESI DI LAUREA DI\\[.3cm]
+              Paolino Paperino\\[.45cm]
+              Matr.\ 123456
+            }
+          \end{flushright}
+        \end{minipage}
+      \end{tabular}
+    \end{minipage}
+
+    \vfill
+    {\large{{Anno Accademico 2013/2014}}}
+  \end{center}
+\end{titlepage}
+
+\null
+\thispagestyle{empty}
+\newpage
+
+
+\mbox{}
+\vspace{4cm}
+\begin{flushright} \emph{
+%%
+%% INIZIO RINGRAZIAMENTI
+%%
+%% da qui a FINE RINGRAZIAMENTI non devono contenere righe vuote,
+%% gli a capo all'interno di un ringraziamento vanno fatti con "\\""
+%% gli a capo tra due ringraziamenti diversi con "\\[1em]""
+%%
+%%
+Ringrazio la mia famiglia\ldots
+%% FINE RINGRAZIAMAENTI
+%%
+} \end{flushright}
+\clearpage
+
+\null
+\thispagestyle{empty}
+\newpage
+
+
