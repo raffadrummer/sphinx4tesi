@@ -26,4 +26,5 @@ rispettivamente nei file
 	build/html/index.html
 	build/pdf/Tesi.pdf
 
-[![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/sphinx4tesi?pixel)](https://github.com/igrigorik/ga-beacon)
+
+![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/sphinx4tesi?pixel)
