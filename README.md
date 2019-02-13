@@ -10,7 +10,7 @@ Per utilizzare questo materiale è necessario installare alcuni pacchetti
 Python, la cosa più comoda per farlo è installare
 [virutlaenv](https://virtualenv.pypa.io/en/latest/) e quindi dare i comandi
 
-	virtualenv sw
+	python3 -m venv sw
   	. ./sw/bin/activate
   	pip install -r requirements.txt
 
